@@ -10,7 +10,7 @@ Built by
 
 Generating  fun SOCIAL MEDIA memes...images are grabbed via an API
 
-![alt text](https://github.com/shloch/react-meme-generator/memeGenerator.gif)
+![alt text](https://github.com/shloch/react-meme-generator/blob/master/memeGenerator.gif)
 
 # INSTALLATION GUIDE
 
@@ -30,6 +30,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### Deployment
+
+this is app is deployed with https://vercel.com/
 
 ### Live demo
 
