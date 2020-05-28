@@ -34,6 +34,9 @@ You will also see any lint errors in the console.
 
 this is app is deployed with https://vercel.com/
 
+### API
+Images are generated using this API link --> https://api.imgflip.com/get_memes
+
 ### Live demo
 
 https://react-meme-generator-qyh4lsu0i.now.sh/
