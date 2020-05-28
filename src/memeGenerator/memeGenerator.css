@@ -1,0 +1,12 @@
+.meme {
+  border:2px solid red;
+  height: 470px;
+  width: 80%;
+  margin: auto;
+  background-repeat: inherit;
+}
+
+.meme h1 {
+ /* color: yellow; */
+ font-size: 5em;
+}
